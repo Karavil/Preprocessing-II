@@ -167,10 +167,10 @@ img {
   height: auto;
 }
 .container {
-  max-width: 800px;
+  max-width: 850px;
   width: 100%;
   margin: 0 auto;
-  padding: 0 30px;
+  padding: 0 25px;
 }
 @media (max-width: 500px) {
   .container {
