@@ -159,9 +159,6 @@ p {
   font-size: 1.6rem;
   padding-bottom: 10px;
 }
-a {
-  font-size: 1.6rem;
-}
 img {
   max-width: 100%;
   height: auto;
@@ -170,15 +167,6 @@ img {
   max-width: 800px;
   width: 100%;
   margin: 0 auto;
-}
-nav {
-  display: flex;
-  justify-content: space-between;
-  width: 100%;
-}
-nav a {
-  text-decoration: none;
-  color: #212529;
 }
 .footer {
   width: 100%;
